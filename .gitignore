@@ -1,0 +1,8 @@
+# Ignore folder with test data
+testdata
+
+# Ignore all log files
+*.log
+
+# Ignore files executable file
+.exe
